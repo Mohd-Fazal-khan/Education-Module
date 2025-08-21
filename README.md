@@ -8,6 +8,9 @@ An interactive web application designed to make learning **Optics – The Study 
 This project is built to help students understand the core concepts of optics with **hands-on interactive simulations**. It combines **theory and practical visualization** for better conceptual clarity.
 
 ---
+## ✅ Live Url
+https://v0-new-chat-rho-ochre.vercel.app/
+
 
 ## 🚀 Features
 - 🔹 Interactive simulations for reflection and refraction.
