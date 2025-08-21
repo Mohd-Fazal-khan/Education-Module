@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📘 Interactive Optics Learning App
 
-## Getting Started
+An interactive web application designed to make learning **Optics – The Study of Light** engaging and easy for Class 10 students. This app provides **simulations, visualizations, and theory** for topics like **reflection, refraction, lenses, mirrors, and the human eye**.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✅ Introduction
+This project is built to help students understand the core concepts of optics with **hands-on interactive simulations**. It combines **theory and practical visualization** for better conceptual clarity.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Features
+- 🔹 Interactive simulations for reflection and refraction.
+- 🔹 Real-time visualization with sliders and dynamic controls.
+- 🔹 Covers key topics:
+  - Reflection of Light
+  - Refraction of Light
+  - Lenses & Mirrors
+  - Human Eye and Vision Defects
+- 🔹 Responsive design for all devices.
+- 🔹 Built using **Next.js + React + Tailwind CSS**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠 Tech Stack
+- **Framework**: [Next.js](https://nextjs.org/)
+- **Library**: [React](https://react.dev/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/), [ShadCN UI](https://ui.shadcn.com/)
+- **Deployment**: [Vercel](https://vercel.com/)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📦 Installation & Setup
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Mohd-Fazal-khan/Education-Module.git
+   cd Education-Module
+2. **Install dependencies**
+   ```bash
+   npm install
+3. **Start the development server**
+   ```bash
+   npm run dev
