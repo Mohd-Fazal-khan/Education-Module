@@ -160,7 +160,7 @@ export default function RefractionModule() {
                   </div>
                   <div>
                     <strong className="text-blue-400">
-                      Second Law (Snell’s Law):
+                      Second Law (Snell&apos;s Law):
                     </strong>
                     <div
                       style={{
