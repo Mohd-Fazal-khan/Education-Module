@@ -13,8 +13,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { ChevronLeft, ChevronRight } from "lucide-react";
-import "katex/dist/katex.min.css";
-import { InlineMath, BlockMath } from "react-katex";
+
 
 const materials = {
   air: { name: "Air", n: 1.0, color: "#e0f2fe" },
