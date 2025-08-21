@@ -147,7 +147,7 @@ export default function RefractionModule() {
                 {/* Laws */}
                 <div className="p-4 bg-[#10182880] rounded-lg border">
                   <h3 className="font-semibold mb-2 text-blue-400">
-                    3. Laws of Refraction (Snell’s Laws)
+                    3. Laws of Refraction (Snell&apos;s Laws)
                   </h3>
                   <div className="mb-2">
                     <strong className="text-blue-400">First Law:</strong>
