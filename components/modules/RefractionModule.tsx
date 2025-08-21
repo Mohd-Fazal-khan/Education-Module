@@ -214,7 +214,7 @@ export default function RefractionModule() {
                   Interactive Simulation
                 </h2>
                 <p className="text-muted-foreground">
-                  Experiment with different materials and angles to see Snell's
+                  Experiment with different materials and angles to see Snell&apos;s
                   law in action
                 </p>
               </div>
